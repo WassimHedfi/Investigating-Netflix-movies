@@ -1,2 +1,4 @@
-# Investigating-Netflix-movies
-Datacamp Project
+# Investigating Netflix Movies and Guest Stars in The Office
+In this project, you'll apply Python skills from Introduction to Python and Intermediate Python to solve a real-world data science challenge. By diving into Netflix's movie data, you'll investigate if there's a trend of decreasing movie lengths over time. Additionally, you'll delve into the guest stars of "The Office," pinpointing those who appear in its most popular episode.
+
+From foundational concepts like lists and loops to advanced tools like pandas and matplotlib, you'll employ a diverse range of techniques. The project also offers a chance to master exploratory data analysis, a vital data science skill, allowing you to manipulate raw data and extract meaningful insights from your visualizations. It's time to hit play and embark on this insightful journey!
